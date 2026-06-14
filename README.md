@@ -33,6 +33,7 @@ Daily US Treasury debt records (1993-2023) with three categories:
 - **Recent growth has slowed but remains elevated**: Total debt growth was 6.1% in 2022 and 6.7% in 2021, down from the 19.6% spike in 2020 but still above the pre-2008 historical norm of roughly 5-9% per year.
 - **Seasonal pattern in debt growth**: the analysis found that the highest average debt increases historically occur in January, February, November, and December, while April, May, June, and July see the lowest increases — likely tied to the US government's fiscal calendar (tax season inflows in spring vs. year-end spending).
 - **Long-term trend**: comparing early years (1994-2000, mostly under 3% annual growth) to recent years (2018-2022, averaging 5-9%) shows debt growth has structurally accelerated over the three-decade period, even excluding the 2008 and 2020 outlier years.
+- **Forecast (2023-2027)**: using Excel's FORECAST function on historical year-end values, Debt Held by the Public is projected to grow from roughly $24.6 trillion (2022) to about $33.0 trillion by 2027 — an increase of roughly $8.4 trillion, or about 35%, over five years. This implies an average annual growth rate of roughly 6%, broadly consistent with the post-2008 "new normal" rather than a return to pre-2008 growth rates.
 
 ## How to Use
 Open `US_Debt_Tracker_Project.xlsx` in Excel. Navigate through the sheet tabs (Scenario → Raw Data → Cleaned Data → Question 1/2/3) to follow the full analysis workflow from raw data to final answers.
